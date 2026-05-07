@@ -1,16 +1,40 @@
-## Hi there 👋
+#  Luigi Roxo
 
-<!--
-**mxrioVerde/mxrioVerde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de ***Ciência da Computação***
 
-Here are some ideas to get you started:
+`"Bom dia, boa tarde ou boa noite, me chamo Luigi Roxo, natural de Porto Alegre, atualmente estou cursando ciência da computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). Estudo programação desde pequeno, criando jogos e pequenos projetos no Gamemaker 2."`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>"Não aja como se fosse viver 10 mil anos"
+
+---
+
+### Linguagens, o que mais gosto?
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Lua" 
+    title="Lua"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<br/>
+<br/>
