@@ -8,7 +8,7 @@ Estudante de ***Ciência da Computação***
 
 ---
 
-### Linguagens, o que mais gosto?
+## Linguagens
 
 <img 
     align="left" 
@@ -36,5 +36,12 @@ Estudante de ***Ciência da Computação***
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+<br>
+
+## Git Stats
+<p align="left">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mxrioVerde&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
 <br/>
 <br/>
