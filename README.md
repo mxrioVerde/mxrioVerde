@@ -1,4 +1,4 @@
-#  Luigi Roxo
+# 💻 Luigi Roxo
 
 Estudante de ***Ciência da Computação***
 
@@ -28,21 +28,3 @@ Estudante de ***Ciência da Computação***
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img
-    alt="GitHub Stats"
-    height="200"
-    src="./profile/stats.svg"
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrioVerde&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-</p>
