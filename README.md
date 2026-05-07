@@ -32,13 +32,7 @@ Estudante de ***Ciência da Computação***
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mxrioVerde&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  ![Stats](./profile/stats.svg)
 
 <img 
       align="left" 
