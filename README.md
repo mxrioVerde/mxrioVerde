@@ -2,7 +2,7 @@
 
 Estudante de ***Ciência da Computação***
 
-`"Bom dia, boa tarde ou boa noite, me chamo Luigi Roxo, natural de Porto Alegre, atualmente estou cursando ciência da computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). Estudo programação desde pequeno, criando jogos e pequenos projetos no Gamemaker 2."`
+
 
 >"Não aja como se fosse viver 10 mil anos"
 
