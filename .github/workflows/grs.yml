@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   build:
@@ -30,4 +31,7 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-          git push
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with: { commit-message: "Update README cards", title: "Update README cards", body: "Automated update of README cards", branch: "update-readme-cards", base: "main", delete-branch: true }
