@@ -13,4 +13,4 @@ Estudante de ***Ciência da Computação*** <br/>
 
 ---
 
-> readme criado com, https://gprm.itsvg.in, apoie!
+> readme criado com: https://gprm.itsvg.in, apoie!
