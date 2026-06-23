@@ -1,6 +1,7 @@
 # 💻 Luigi Roxo
 
 Estudante de ***Ciência da Computação***
+'Pontifícia Universidade Católica do Rio Grande do Sul'
 
 
 
